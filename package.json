@@ -1,0 +1,30 @@
+{
+  "name": "siva-react",
+  "version": "1.0.0",
+  "description": "This is Hello React by Sivanarumugam",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SivaGuna-2025/Hello-React.git"
+  },
+  "keywords": [],
+  "author": "Sivanarumugam Mookiah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SivaGuna-2025/Hello-React/issues"
+  },
+  "homepage": "https://github.com/SivaGuna-2025/Hello-React#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "targets": {
+  "main": false
+}
+}
